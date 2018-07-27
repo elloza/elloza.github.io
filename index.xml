@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Álvaro Lozano Murciego on Álvaro Lozano Murciego</title>
-    <link>https://elloza.github.io/</link>
+    <link>https://elloza.com/</link>
     <description>Recent content in Álvaro Lozano Murciego on Álvaro Lozano Murciego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,13 +12,13 @@
     
     <item>
       <title>A crappy 3G Smart Plug solution</title>
-      <link>https://elloza.github.io/2018/03/a-crappy-3g-smart-plug-solution/</link>
+      <link>https://elloza.com/2018/03/a-crappy-3g-smart-plug-solution/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://elloza.github.io/2018/03/a-crappy-3g-smart-plug-solution/</guid>
+      <guid>https://elloza.com/2018/03/a-crappy-3g-smart-plug-solution/</guid>
       <description>&lt;p&gt;Today I want to talk about a kind of device which is increasingly present in more and more households around the world: The Smart Plug (or Smart Socket).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://elloza.github.io/img/smartplugs/power-plug.jpg&#34; alt=&#34;SmartPlug&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://elloza.com/img/smartplugs/power-plug.jpg&#34; alt=&#34;SmartPlug&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Their main goals are commonly:&lt;/p&gt;
 
@@ -32,7 +32,7 @@
 
 &lt;p&gt;These devices need a connection to internet to communicate with their company server. This communication enables monitoring the device and performing actions on it by the final user, normally via a mobile or a web app. The main scheme of this kind of devices is the following:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://elloza.github.io/img/smartplugs/flowchart.png&#34; alt=&#34;Flowchart&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://elloza.com/img/smartplugs/flowchart.png&#34; alt=&#34;Flowchart&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Some of them use Zigbee or similar technologies for sending the information to an intermediate device called gateway which communicates through an internet connection (WiFi, Ethernet, whatever.). On the other hand, there are some smart plugs which communicates with directly the information via WiFi.
 The problem arises when you don’t have a WiFi internet connection because you plan install this device in a very far remote location. The keyword 3G/4G comes to your mind and you will search this kind of solutions including a slot for a 3G SIM card. Sadly the most of options that I found in Internet are very expensive and they are totally in other range of prices that the common smart plugs.
@@ -56,10 +56,10 @@ I promise that the next post will be more technical!!&lt;/p&gt;
     
     <item>
       <title>Hello World</title>
-      <link>https://elloza.github.io/2018/03/hello-world/</link>
+      <link>https://elloza.com/2018/03/hello-world/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://elloza.github.io/2018/03/hello-world/</guid>
+      <guid>https://elloza.com/2018/03/hello-world/</guid>
       <description>&lt;p&gt;This post is aimed to present this personal web site and their main goals. First of all, let me introduce myself, I am a PhD student which has a some experience on Android development and is interested in Machine Learning, IoT, WSN and any hackeable thing.&lt;/p&gt;
 
 &lt;p&gt;I have create this web with the following objectives:&lt;/p&gt;
@@ -80,20 +80,20 @@ I promise that the next post will be more technical!!&lt;/p&gt;
     
     <item>
       <title>Example Talk</title>
-      <link>https://elloza.github.io/talk/example-talk/</link>
+      <link>https://elloza.com/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://elloza.github.io/talk/example-talk/</guid>
+      <guid>https://elloza.com/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MOVIURBAN</title>
-      <link>https://elloza.github.io/project/moviurban/</link>
+      <link>https://elloza.com/project/moviurban/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://elloza.github.io/project/moviurban/</guid>
+      <guid>https://elloza.com/project/moviurban/</guid>
       <description>&lt;p&gt;MOVIURBAN project that is aimed at analyzing behavour patterns through sensor networks in smart cities.
 In particular, new algorithms for smart vehicles interaction based on social computing and swarm intelligence will be developed.&lt;/p&gt;
 </description>
@@ -101,29 +101,29 @@ In particular, new algorithms for smart vehicles interaction based on social com
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://elloza.github.io/publication/person-re-identification/</link>
+      <link>https://elloza.com/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://elloza.github.io/publication/person-re-identification/</guid>
+      <guid>https://elloza.com/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ebikemotion</title>
-      <link>https://elloza.github.io/project/ebikemotion/</link>
+      <link>https://elloza.com/project/ebikemotion/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://elloza.github.io/project/ebikemotion/</guid>
+      <guid>https://elloza.com/project/ebikemotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>https://elloza.github.io/publication/clothing-search/</link>
+      <link>https://elloza.com/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://elloza.github.io/publication/clothing-search/</guid>
+      <guid>https://elloza.com/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
