@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://elloza.github.io/2018/03/a-crappy-3g-smart-plug-solution/</loc>
+      <lastmod>2018-09-03T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://elloza.github.io/2018/03/hello-world/</loc>
       <lastmod>2017-09-03T00:00:00+02:00</lastmod>
     </url>
@@ -154,6 +163,16 @@
     
     <url>
     
+      <loc>https://elloza.github.io/tags/iot/</loc>
+      <lastmod>2018-09-03T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://elloza.github.io/tags/machine-learning/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -186,6 +205,26 @@
     
       <loc>https://elloza.github.io/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://elloza.github.io/tags/smart-home/</loc>
+      <lastmod>2018-09-03T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://elloza.github.io/tags/smart-plug/</loc>
+      <lastmod>2018-09-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
