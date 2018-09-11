@@ -11,50 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A crappy 3G Smart Plug solution</title>
-      <link>https://elloza.com/2018/03/a-crappy-3g-smart-plug-solution/</link>
-      <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://elloza.com/2018/03/a-crappy-3g-smart-plug-solution/</guid>
-      <description>&lt;p&gt;Today I want to talk about a kind of device which is increasingly present in more and more households around the world: The Smart Plug (or Smart Socket).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://elloza.com/img/smartplugs/power-plug.jpg&#34; alt=&#34;SmartPlug&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Their main goals are commonly:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Act as a relay&lt;/strong&gt;: turning off or on the socket where it is plugged. This could be performed in real time or scheduled by the user.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Monitoring and measure values of power consumption&lt;/strong&gt;: voltage, etc. of the appliances plugged to it. This enable a lot of services related with analyzing appliance consumption: demand response and a large etc.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In &lt;a href=&#34;https://bisite.usal.es/es&#34; target=&#34;_blank&#34;&gt;BISITE&lt;/a&gt; we were working with this kind of devices with the company &lt;a href=&#34;https://www.vps.energy/pt&#34; target=&#34;_blank&#34;&gt;VPS&lt;/a&gt; and their product &lt;a href=&#34;https://www.cloogy.pt/&#34; target=&#34;_blank&#34;&gt;Cloogy&lt;/a&gt;. We were developing classifiers aimed to identify the appliance connected to this device employing the power consumption fingerprint of each appliance. Nowadays, we are working in other interesting application with this devices but I will discuss deeply in other separate post.&lt;/p&gt;
-
-&lt;p&gt;These devices need a connection to internet to communicate with their company server. This communication enables monitoring the device and performing actions on it by the final user, normally via a mobile or a web app. The main scheme of this kind of devices is the following:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://elloza.com/img/smartplugs/flowchart.png&#34; alt=&#34;Flowchart&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Some of them use Zigbee or similar technologies for sending the information to an intermediate device called gateway which communicates through an internet connection (WiFi, Ethernet, whatever.). On the other hand, there are some smart plugs which communicates with directly the information via WiFi.
-The problem arises when you don’t have a WiFi internet connection because you plan install this device in a very far remote location. The keyword 3G/4G comes to your mind and you will search this kind of solutions including a slot for a 3G SIM card. Sadly the most of options that I found in Internet are very expensive and they are totally in other range of prices that the common smart plugs.
-So, let’s go, we will try to solve this problem with “a crappy but maybe no so crappy“ (&lt;a href=&#34;https://twitter.com/EIGabri&#34; target=&#34;_blank&#34;&gt;@EIGabri&lt;/a&gt; sentence) solution. We will need the following materials:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;A WiFi Smart Plug:&lt;/strong&gt; I have selected &lt;a href=&#34;https://es.aliexpress.com/store/product/Original-Xiaomi-Smart-Socket-WiFi-APP-Wireless-Control-Switches-EU-US-AU-Timer-Plug-Charger-for/2185008_32714912463.html?spm=a219c.search0204.3.23.377a69ceICC542&amp;amp;ws_ab_test=searchweb0_0,searchweb201602_3_10152_10151_10065_10344_10068_10342_10547_10343_10340_10548_10341_10696_10084_10083_10618_10307_10301_10303_5711215_10313_10059_10184_10534_100031_10103_10624_10623_10622_5711315_10621_10620_5722415,searchweb201603_1,ppcSwitch_5_ppcChannel&amp;amp;algo_expid=5ce868dc-1553-4ea6-af17-6a93a0788361-3&amp;amp;algo_pvid=5ce868dc-1553-4ea6-af17-6a93a0788361&amp;amp;priceBeautifyAB=0&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; from Xiaomi. There is &lt;a href=&#34;https://es.aliexpress.com/store/product/2018-xiaomi-mijia-Smart-dual-USB-enchufe-WiFi-mejorada-control-temporizador-Abrigos-de-plumas-funci-n/907082_32856532067.html?spm=a219c.search0204.3.21.40014ca0qUstkH&amp;amp;ws_ab_test=searchweb0_0%2Csearchweb201602_3_10152_10151_10065_10344_10068_10342_10547_10343_10340_10548_10341_10696_10084_10083_10618_10307_10301_10303_5711215_10313_10059_10184_10534_100031_10103_10624_10623_10622_5711315_10621_10620_5722415%2Csearchweb201603_1%2CppcSwitch_5_ppcChannel&amp;amp;algo_expid=541dd396-dc87-4d95-a6a7-8fcc9d1b1306-3&amp;amp;algo_pvid=541dd396-dc87-4d95-a6a7-8fcc9d1b1306&amp;amp;priceBeautifyAB=0&#34; target=&#34;_blank&#34;&gt;other&lt;/a&gt; with USB that could be useful for the 3G Dongle (and dangerous if you disable it).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;A 3G dongle USB:&lt;/strong&gt; I have selected the cheapest from Alliexpress: &lt;a href=&#34;https://es.aliexpress.com/item/New-Usb-Wireless-Router-Mini-Portable-Wi-fi-Mobile-Device-Hotspot-Mifi-Dongle-Modem-Unlocked-With/32436246487.html?spm=a2g0s.9042311.0.0.Lu7ZaA&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;A USB charger&lt;/strong&gt; (if you use the first smart plug)&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;&lt;strong&gt;A Freedompop SIM with free plan&lt;/strong&gt;: check it in their website. 200 MB/month free&lt;/del&gt; &lt;strong&gt;A 3G SIM with data plan&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;With these materials you probably guess what is the plan. We will use the dongle as WiFi router and we will connect the smart plug to that network. Now, we have a simple and cheap (less than 30 euros) smart plug which we can enable and disable from any part of the world.
-Maybe a smart plug with a USB port could be a better option (more compact) but in some cases maybe you prefer the flexibility of having the router in some place and the smart plug in other place, it depends of the use case.
-I have only evaluated the data consumption and it is insignificant. Conversely, I don’t have evaluate the power consumption of the two devices &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;, but I guess that It does not be so much.
-I promise that the next post will be more technical!!&lt;/p&gt;
-
-&lt;p&gt;See you soon fideos.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>https://elloza.com/2018/03/hello-world/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
