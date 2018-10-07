@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Álvaro Lozano Murciego</copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://elloza.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>MOVIURBAN</title>
@@ -16,9 +18,7 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://elloza.com/project/moviurban/</guid>
-      <description>&lt;p&gt;MOVIURBAN project that is aimed at analyzing behavour patterns through sensor networks in smart cities.
-In particular, new algorithms for smart vehicles interaction based on social computing and swarm intelligence will be developed.&lt;/p&gt;
-</description>
+      <description>MOVIURBAN project that is aimed at analyzing behavour patterns through sensor networks in smart cities. In particular, new algorithms for smart vehicles interaction based on social computing and swarm intelligence will be developed.</description>
     </item>
     
     <item>
