@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-data | Álvaro Lozano Murciego</title>
+    <link>https://elloza.com/tags/open-data/</link>
+      <atom:link href="https://elloza.com/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>open-data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elloza.com/img/icon-192.png</url>
+      <title>open-data</title>
+      <link>https://elloza.com/tags/open-data/</link>
+    </image>
+    
+    <item>
+      <title>MOVIURBAN</title>
+      <link>https://elloza.com/project/moviurban/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/project/moviurban/</guid>
+      <description>&lt;p&gt;MOVIURBAN project that is aimed at analyzing behavour patterns through sensor networks in smart cities.
+In particular, new algorithms for smart vehicles interaction based on social computing and swarm intelligence will be developed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

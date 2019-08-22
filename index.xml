@@ -1,46 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Álvaro Lozano Murciego on Álvaro Lozano Murciego</title>
+    <title>Álvaro Lozano Murciego</title>
     <link>https://elloza.com/</link>
-    <description>Recent content in Álvaro Lozano Murciego on Álvaro Lozano Murciego</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Álvaro Lozano Murciego</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://elloza.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Álvaro Lozano Murciego</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright><lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://elloza.com/img/icon-192.png</url>
+      <title>Álvaro Lozano Murciego</title>
+      <link>https://elloza.com/</link>
+    </image>
     
     <item>
-      <title>Hello World</title>
-      <link>https://elloza.com/2018/03/hello-world/</link>
-      <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://elloza.com/2018/03/hello-world/</guid>
-      <description>&lt;p&gt;This post is aimed to present this personal web site and their main goals. First of all, let me introduce myself, I am a PhD student which has a some experience on Android development and is interested in Machine Learning, IoT, WSN and any hackeable thing.&lt;/p&gt;
-
-&lt;p&gt;I have create this web with the following objectives:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Improving my writing and use of English:&lt;/strong&gt; yes, if you read my post probably you will found english mistakes so don&amp;rsquo;t be afraid to tell me something in the disqus part of this web at the bottom ;). I hope that this writings force me to improve my English.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Share the progress of my PhD and insights related with it:&lt;/strong&gt; I will share problems which I am facing during my work.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Explain some personal and group projects:&lt;/strong&gt; a lot of them done with my workmates in the &lt;a href=&#34;http://bisite.usal.es/&#34; target=&#34;_blank&#34;&gt;Research Group BISITE&lt;/a&gt; (if they let me publish something about that). I hope you found them interesting.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Posts related with Machine Learning and how to learn it.&lt;/strong&gt; In this case probably all will be advices or links to other good quality content that I have discovered.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Quality over quantity:&lt;/strong&gt; if I start a post I will try to write a useful and complete post not just a post with a little bit of information.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And many many more!&lt;/p&gt;
-
-&lt;p&gt;See you soon fideos.&lt;/p&gt;
+      <title>LPWANs for IoT</title>
+      <link>https://elloza.com/talk/20190415-lpwan/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0200</pubDate>
+      <guid>https://elloza.com/talk/20190415-lpwan/</guid>
+      <description>&lt;p&gt;Repository of these talks: &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://elloza.com/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://elloza.com/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <title>Hello World</title>
+      <link>https://elloza.com/post/first-post/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://elloza.com/post/first-post/</guid>
+      <description>&lt;p&gt;This post is aimed to present this personal web site and their main goals. First of all, let me introduce myself, I am a PhD Researcher which has a some experience on Android development and is interested in Machine Learning, IoT, WSN and any hackeable thing.&lt;/p&gt;
+
+&lt;p&gt;I have create this web with the following objectives:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Improving my writing and use of English:&lt;/strong&gt; yes, if you read my post probably you will found english mistakes so don&amp;rsquo;t be afraid to tell me something in the disqus part of this web at the bottom ;). I hope that this writings force me to improve my English.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Share content and knowledge that I found interesting:&lt;/strong&gt; I will try to write large posts when I found something really interesting.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And many many more!&lt;/p&gt;
+
+&lt;p&gt;See you soon.&lt;/p&gt;
 </description>
     </item>
     
@@ -48,7 +46,6 @@
       <title>MOVIURBAN</title>
       <link>https://elloza.com/project/moviurban/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://elloza.com/project/moviurban/</guid>
       <description>&lt;p&gt;MOVIURBAN project that is aimed at analyzing behavour patterns through sensor networks in smart cities.
 In particular, new algorithms for smart vehicles interaction based on social computing and swarm intelligence will be developed.&lt;/p&gt;
@@ -56,32 +53,11 @@ In particular, new algorithms for smart vehicles interaction based on social com
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://elloza.com/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://elloza.com/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Ebikemotion</title>
       <link>https://elloza.com/project/ebikemotion/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://elloza.com/project/ebikemotion/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://elloza.com/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://elloza.com/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

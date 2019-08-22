@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Álvaro Lozano Murciego</title>
+    <title>Posts | Álvaro Lozano Murciego</title>
     <link>https://elloza.com/post/</link>
-    <description>Recent content in Posts on Álvaro Lozano Murciego</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Álvaro Lozano Murciego</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://elloza.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://elloza.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright><lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://elloza.com/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://elloza.com/post/</link>
+    </image>
     
     <item>
       <title>Hello World</title>
-      <link>https://elloza.com/2018/03/hello-world/</link>
+      <link>https://elloza.com/post/first-post/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://elloza.com/2018/03/hello-world/</guid>
-      <description>This post is aimed to present this personal web site and their main goals. First of all, let me introduce myself, I am a PhD student which has a some experience on Android development and is interested in Machine Learning, IoT, WSN and any hackeable thing.
-I have create this web with the following objectives:
- Improving my writing and use of English: yes, if you read my post probably you will found english mistakes so don&amp;rsquo;t be afraid to tell me something in the disqus part of this web at the bottom ;).</description>
+      <guid>https://elloza.com/post/first-post/</guid>
+      <description>&lt;p&gt;This post is aimed to present this personal web site and their main goals. First of all, let me introduce myself, I am a PhD Researcher which has a some experience on Android development and is interested in Machine Learning, IoT, WSN and any hackeable thing.&lt;/p&gt;
+
+&lt;p&gt;I have create this web with the following objectives:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Improving my writing and use of English:&lt;/strong&gt; yes, if you read my post probably you will found english mistakes so don&amp;rsquo;t be afraid to tell me something in the disqus part of this web at the bottom ;). I hope that this writings force me to improve my English.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Share content and knowledge that I found interesting:&lt;/strong&gt; I will try to write large posts when I found something really interesting.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And many many more!&lt;/p&gt;
+
+&lt;p&gt;See you soon.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

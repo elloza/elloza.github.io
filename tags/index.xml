@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Álvaro Lozano Murciego</title>
+    <link>https://elloza.com/tags/</link>
+      <atom:link href="https://elloza.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright><lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://elloza.com/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://elloza.com/tags/</link>
+    </image>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://elloza.com/tags/hello/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://elloza.com/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statement of intents</title>
+      <link>https://elloza.com/tags/statement-of-intents/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://elloza.com/tags/statement-of-intents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://elloza.com/tags/machine-learning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-data</title>
+      <link>https://elloza.com/tags/open-data/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/tags/open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smart-cities</title>
+      <link>https://elloza.com/tags/smart-cities/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/tags/smart-cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://elloza.com/tags/android/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eBike</title>
+      <link>https://elloza.com/tags/ebike/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/tags/ebike/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

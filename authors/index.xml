@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Álvaro Lozano Murciego</title>
+    <link>https://elloza.com/authors/</link>
+      <atom:link href="https://elloza.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright>
+    <image>
+      <url>https://elloza.com/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://elloza.com/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://elloza.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/authors/admin/</guid>
+      <description>&lt;p&gt;I have received a PhD in Computer Engineering from the University of Salamanca in 2019. Previously, I have worked as an Android Developer developing mobile applications related to electric bikes together with the company &lt;a href=&#34;https://www.ebikemotion.com&#34; target=&#34;_blank&#34;&gt;Ebikemotion&lt;/a&gt; and BISITE Research Group.&lt;/p&gt;
+
+&lt;p&gt;Now, I am working on the &lt;a href=&#34;https://esalab.es&#34; target=&#34;_blank&#34;&gt;ESALab Research Group&lt;/a&gt; and collaborating on teaching several subjects in the Computer Science Department.&lt;/p&gt;
+
+&lt;p&gt;My research topics are currently related to Machine Learning Techniques applied to different domains, Route Optimization, IoT sensors and Edge Computing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
