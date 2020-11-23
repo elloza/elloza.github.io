@@ -5,12 +5,36 @@
     <link>https://elloza.com/tags/</link>
       <atom:link href="https://elloza.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright><lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Álvaro Lozano Murciego</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elloza.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://elloza.com/tags/</link>
     </image>
+    
+    <item>
+      <title>elderly</title>
+      <link>https://elloza.com/tags/elderly/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/tags/elderly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://elloza.com/tags/machine-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voice-assistants</title>
+      <link>https://elloza.com/tags/voice-assistants/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/tags/voice-assistants/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello</title>
@@ -25,14 +49,6 @@
       <link>https://elloza.com/tags/statement-of-intents/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
       <guid>https://elloza.com/tags/statement-of-intents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://elloza.com/tags/machine-learning/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://elloza.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     

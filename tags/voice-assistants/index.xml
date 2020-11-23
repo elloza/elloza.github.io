@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>voice-assistants | Álvaro Lozano Murciego</title>
+    <link>https://elloza.com/tags/voice-assistants/</link>
+      <atom:link href="https://elloza.com/tags/voice-assistants/index.xml" rel="self" type="application/rss+xml" />
+    <description>voice-assistants</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Álvaro Lozano Murciego</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elloza.com/img/icon-192.png</url>
+      <title>voice-assistants</title>
+      <link>https://elloza.com/tags/voice-assistants/</link>
+    </image>
+    
+    <item>
+      <title>EMERITI</title>
+      <link>https://elloza.com/project/emeriti/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/project/emeriti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://elloza.com/tags/machine-learning/</link>
       <atom:link href="https://elloza.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine-learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Álvaro Lozano Murciego</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elloza.com/img/icon-192.png</url>
       <title>machine-learning</title>
       <link>https://elloza.com/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>EMERITI</title>
+      <link>https://elloza.com/project/emeriti/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/project/emeriti/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MOVIURBAN</title>

@@ -5,7 +5,7 @@
     <link>https://elloza.com/talk/</link>
       <atom:link href="https://elloza.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright><lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Álvaro Lozano Murciego</copyright><lastBuildDate>Sat, 07 Nov 2020 17:00:00 +0100</lastBuildDate>
     <image>
       <url>https://elloza.com/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,11 +13,19 @@
     </image>
     
     <item>
+      <title>Introduction to MicroPython (Spanish)</title>
+      <link>https://elloza.com/talk/20201107-intro-micropython/</link>
+      <pubDate>Sat, 07 Nov 2020 17:00:00 +0100</pubDate>
+      <guid>https://elloza.com/talk/20201107-intro-micropython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LPWANs for IoT</title>
       <link>https://elloza.com/talk/20190415-lpwan/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0200</pubDate>
       <guid>https://elloza.com/talk/20190415-lpwan/</guid>
-      <description>&lt;p&gt;Repository of these talks: &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Repository of these talks: &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

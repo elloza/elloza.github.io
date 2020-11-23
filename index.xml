@@ -5,7 +5,7 @@
     <link>https://elloza.com/</link>
       <atom:link href="https://elloza.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Álvaro Lozano Murciego</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Álvaro Lozano Murciego</copyright><lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Álvaro Lozano Murciego</copyright><lastBuildDate>Sat, 07 Nov 2020 17:00:00 +0100</lastBuildDate>
     <image>
       <url>https://elloza.com/img/icon-192.png</url>
       <title>Álvaro Lozano Murciego</title>
@@ -13,50 +13,34 @@
     </image>
     
     <item>
-      <title>LPWANs for IoT</title>
-      <link>https://elloza.com/talk/20190415-lpwan/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://elloza.com/talk/20190415-lpwan/</guid>
-      <description>&lt;p&gt;Repository of these talks: &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://elloza.com/talk/</link>
+      <pubDate>Sat, 07 Nov 2020 17:00:00 +0100</pubDate>
+      <guid>https://elloza.com/talk/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>https://elloza.com/post/first-post/</link>
+      <title>Projects</title>
+      <link>https://elloza.com/project/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://elloza.com/post/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0100</pubDate>
-      <guid>https://elloza.com/post/first-post/</guid>
-      <description>&lt;p&gt;This post is aimed to present this personal web site and their main goals. First of all, let me introduce myself, I am a PhD Researcher which has a some experience on Android development and is interested in Machine Learning, IoT, WSN and any hackeable thing.&lt;/p&gt;
-
-&lt;p&gt;I have create this web with the following objectives:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Improving my writing and use of English:&lt;/strong&gt; yes, if you read my post probably you will found english mistakes so don&amp;rsquo;t be afraid to tell me something in the disqus part of this web at the bottom ;). I hope that this writings force me to improve my English.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Share content and knowledge that I found interesting:&lt;/strong&gt; I will try to write large posts when I found something really interesting.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And many many more!&lt;/p&gt;
-
-&lt;p&gt;See you soon.&lt;/p&gt;
-</description>
+      <guid>https://elloza.com/post/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>MOVIURBAN</title>
-      <link>https://elloza.com/project/moviurban/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://elloza.com/project/moviurban/</guid>
-      <description>&lt;p&gt;MOVIURBAN project that is aimed at analyzing behavour patterns through sensor networks in smart cities.
-In particular, new algorithms for smart vehicles interaction based on social computing and swarm intelligence will be developed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ebikemotion</title>
-      <link>https://elloza.com/project/ebikemotion/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://elloza.com/project/ebikemotion/</guid>
+      <title>Publications</title>
+      <link>https://elloza.com/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://elloza.com/publication/</guid>
       <description></description>
     </item>
     
